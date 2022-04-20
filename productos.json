@@ -1,0 +1,70 @@
+[
+	{
+		"id": "f4ecece8-1df7-4aac-88be-bd22b67a3be3",
+		"nombre": "Beta 52",
+		"descripcion": "Microfono dinamico diafragma grande para frecuencias bajas. ",
+		"url": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/beta52.jpeg",
+		"precio": "$52.000",
+		"stock": 27
+	},
+	{
+		"id": "65d7e9af-e1c3-448d-ae6d-d64b1663f935",
+		"timestamp": 1650453950278,
+		"nombre": "Beta 52",
+		"descripcion": "Microfono dinamico diafragma grande para frecuencias bajas. ",
+		"codigo": "f037ff3a-e678-4dc5-8ad3-464d5a838dd6",
+		"foto": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/beta52.jpeg",
+		"precio": "$52.000",
+		"stock": 27
+	},
+	{
+		"id": "55d8b1d3-b237-44d3-ab02-19a7ef02ebdc",
+		"timestamp": 1650454090364,
+		"nombre": "Blue condenser bluerbird-SL Large",
+		"descripcion": "Microfono condesnser para estudio.",
+		"codigo": "06980aeb-c4c3-40e9-9197-4e744bc1c722",
+		"foto": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/blue.jpg",
+		"precio": "$180.000",
+		"stock": 19
+	},
+	{
+		"id": "00ac8f6e-5fab-40bb-b93c-700b58ee9727",
+		"timestamp": 1650454181252,
+		"nombre": "AKG C214",
+		"descripcion": "Microfono condesnser profesional para estudio. Rango de 20hz-20khz",
+		"codigo": "76a6d077-dfe7-4e01-901d-b9f9bf476c26",
+		"foto": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/c214.jpg",
+		"precio": "$155.000",
+		"stock": 11
+	},
+	{
+		"id": "f52389a4-c781-47b5-bf3d-0be2116496c0",
+		"timestamp": 1650454246378,
+		"nombre": "Rode NT2-A",
+		"descripcion": "Microfono condesnser profesional para estudio. Multipatron de direcciones",
+		"codigo": "b67dd146-c7f7-47d4-b0a7-065f157cb058",
+		"foto": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/nt2a.jpg",
+		"precio": "$125.000",
+		"stock": 15
+	},
+	{
+		"id": "f16bc567-e1db-4949-a6c5-04dd48e7f3a3",
+		"timestamp": 1650454332736,
+		"nombre": "Shure SM-57",
+		"descripcion": "Microfono dinámico de capsula pequeña.",
+		"codigo": "40bd2dc0-b30c-403d-acd1-5fae53fa8550",
+		"foto": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/sm57.jpg",
+		"precio": "$40.000",
+		"stock": 35
+	},
+	{
+		"id": "d0e19b48-8b26-472a-be03-df40fcd0fd8d",
+		"timestamp": 1650454399835,
+		"nombre": "Shure SM-58",
+		"descripcion": "Microfono dinámico encapsulado. Perfecto para shows en vivo.",
+		"codigo": "1bd33bcd-3b20-465e-bc27-ff9b1ca24276",
+		"foto": "C:/Users/gena9/OneDrive/Documentos/PROGRAMACION/BACKEND/proyectoFinal/public/imagenes/sm58.avif",
+		"precio": "$40.000",
+		"stock": 35
+	}
+]
